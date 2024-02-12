@@ -1,7 +1,7 @@
 {
   "name": "nicknames",
   "version": "1.0.0",
-  "description": "Names input corrctness checking using regEx",
+  "description": "Names input correctness checking using regEx",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
